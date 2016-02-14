@@ -15,18 +15,6 @@
     "clock": "2016-02-14T11:38:00"
   }, 
   "openaps": {
-    "suggested": {
-      "bg": 75, 
-      "temp": "absolute", 
-      "snoozeBG": 117, 
-      "timestamp": "2016-02-14T19:37:08.000Z", 
-      "rate": 0, 
-      "reason": "BG 75<80", 
-      "eventualBG": 117, 
-      "duration": 30, 
-      "mealAssist": "Off: Carbs: 24 Boluses: 2.45 Target: 115 Deviation: -21 BGI: 1.12", 
-      "tick": -2
-    }, 
     "iob": {
       "netbasalinsulin": -1.2, 
       "timestamp": "2016-02-14T19:37:08.000Z", 
