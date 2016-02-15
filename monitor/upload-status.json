@@ -6,8 +6,8 @@
       "voltage": 1.55
     }, 
     "status": {
-      "status": "normal", 
-      "timestamp": "2016-02-15T03:24:03.000Z", 
+      "status": "error", 
+      "timestamp": "2016-02-15T04:07:14.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
@@ -55,7 +55,7 @@
   "mmtune": {
     "scanDetails": [], 
     "setFreq": 916.63, 
-    "timestamp": "2016-02-15T04:03:34.000Z", 
+    "timestamp": "2016-02-15T04:08:04.000Z", 
     "usedDefault": true
   }
 }
